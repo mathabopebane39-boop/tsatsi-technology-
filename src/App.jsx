@@ -38,7 +38,7 @@ export default function App() {
       </div>
 
       <h2>Order via WhatsApp</h2>
-      <a href="https://wa.me/27YOURNUMBER" target="_blank">
+      <a href="https://wa.me/27731903585?text=Hi%20I%20want%20to%20order%20a%20product" target="_blank" target="_blank">
         Chat Now
       </a>
 
