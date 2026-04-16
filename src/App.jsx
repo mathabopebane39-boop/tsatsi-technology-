@@ -68,7 +68,7 @@ export default function App() {
       {/* WhatsApp */}
       <div style={{ textAlign: "center", marginTop: "40px" }}>
         <h2>Order via WhatsApp</h2>
-        <a href="https://wa.me/27831234567?text=Hi%20I%20want%20to%20order%20a%20product" target="_blank">
+        <a href="https://wa.me/27731903585?text=Hi%20I%20want%20to%20order%20a%20product" target="_blank">
           <button style={{ 
             background: "green", 
             color: "white", 
